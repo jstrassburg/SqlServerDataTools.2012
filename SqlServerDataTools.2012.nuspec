@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SqlServerDataTools.2012</id>
+    <title>SQL Server Data Tools for Visual Studio 2012</title>
+    <version>1.0.0</version>
+    <authors>Microsoft</authors>
+    <owners>James Strassburg</owners>
+    <description>SLQ Server Data Tools for Visual Studio 2012</description>
+    <projectUrl>http://msdn.microsoft.com/en-us/jj650015</projectUrl>
+    <tags>SQL Server Data Tools 2012 SQLServer</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
