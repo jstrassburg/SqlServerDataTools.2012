@@ -2,14 +2,15 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>SqlServerDataTools.2012</id>
-    <title>SQL Server Data Tools for Visual Studio 2012</title>
-    <version>1.0.0</version>
+    <title>SQL Server Data Tools for Visual Studio 2012 - January 2014</title>
+    <version>11.1.31203.1</version>
     <authors>Microsoft</authors>
     <owners>James Strassburg</owners>
-    <description>SLQ Server Data Tools for Visual Studio 2012</description>
-    <projectUrl>http://msdn.microsoft.com/en-us/jj650015</projectUrl>
-    <tags>SQL Server Data Tools 2012 SQLServer</tags>
+    <description>SQL Server Data Tools for Visual Studio 2012 - January 2014</description>
+    <projectUrl>https://github.com/jstrassburg/SqlServerDataTools.2012</projectUrl>
+    <tags>SQL Server Data Tools 2012 SQLServer SQLServerDataTools</tags>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes>v11.1.31203.1 - Updated to point to January 2014 release.</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
